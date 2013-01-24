@@ -1,0 +1,1 @@
+c:\users\宗翰\documents\visual studio 2010\Projects\Sudoku\Sudoku\SudokuContent\obj\x86\Debug\SudokuContent.contentprojResolveAssemblyReference.cache

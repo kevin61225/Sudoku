@@ -1,0 +1,6 @@
+c:\users\宗翰\documents\visual studio 2010\Projects\Sudoku\Sudoku\Sudoku\bin\x86\Debug\Sudoku.exe
+c:\users\宗翰\documents\visual studio 2010\Projects\Sudoku\Sudoku\Sudoku\bin\x86\Debug\Sudoku.pdb
+c:\users\宗翰\documents\visual studio 2010\Projects\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.csprojResolveAssemblyReference.cache
+c:\users\宗翰\documents\visual studio 2010\Projects\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\宗翰\documents\visual studio 2010\Projects\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+c:\users\宗翰\documents\visual studio 2010\Projects\Sudoku\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
